@@ -1,22 +1,22 @@
 "Name","Level","LevelCount","TID","InfoTID","Action","ActionCount","ActionData","ActionDataLevel","ExpReward","DiamondReward","IconSWF","IconExportName","CompletedTID","ShowValue","AndroidID","UIGroup","UIPriority"
 "String","int","int","String","String","String","int","String","int","int","int","String","String","String","boolean","String","int","int"
-"com.supercell.magic.goldstoragelevel0",0,3,"TID_ACHIEVEMENT_GOLDSTORAGE_TITLE","TID_ACHIEVEMENT_GOLDSTORAGE_UPGRADE","upgrade",2,"Gold Storage",,10,2,,,"TID_ACHIEVEMENT_GOLDSTORAGE_COMPLETED","true","CgkI9_nElagcEAIQAQ",0,96
-"com.supercell.magic.goldstoragelevel1",1,3,"TID_ACHIEVEMENT_GOLDSTORAGE_TITLE","TID_ACHIEVEMENT_GOLDSTORAGE_UPGRADE","upgrade",5,"Gold Storage",,100,5,,,"TID_ACHIEVEMENT_GOLDSTORAGE_COMPLETED","true","CgkI9_nElagcEAIQAg",0,96
-"com.supercell.magic.goldstoragelevel2",2,3,"TID_ACHIEVEMENT_GOLDSTORAGE_TITLE","TID_ACHIEVEMENT_GOLDSTORAGE_UPGRADE","upgrade",10,"Gold Storage",,1000,10,,,"TID_ACHIEVEMENT_GOLDSTORAGE_COMPLETED","true","CgkI9_nElagcEAIQAw",0,96
+"com.supercell.magic.goldstoragelevel0",0,3,"TID_ACHIEVEMENT_GOLDSTORAGE_TITLE","TID_ACHIEVEMENT_GOLDSTORAGE_UPGRADE","upgrade",2,"Gold Storage",,10,2000,,,"TID_ACHIEVEMENT_GOLDSTORAGE_COMPLETED","true","CgkI9_nElagcEAIQAQ",0,96
+"com.supercell.magic.goldstoragelevel1",1,3,"TID_ACHIEVEMENT_GOLDSTORAGE_TITLE","TID_ACHIEVEMENT_GOLDSTORAGE_UPGRADE","upgrade",5,"Gold Storage",,100,5000,,,"TID_ACHIEVEMENT_GOLDSTORAGE_COMPLETED","true","CgkI9_nElagcEAIQAg",0,96
+"com.supercell.magic.goldstoragelevel2",2,3,"TID_ACHIEVEMENT_GOLDSTORAGE_TITLE","TID_ACHIEVEMENT_GOLDSTORAGE_UPGRADE","upgrade",10,"Gold Storage",,1000,1000,,,"TID_ACHIEVEMENT_GOLDSTORAGE_COMPLETED","true","CgkI9_nElagcEAIQAw",0,96
 ,,,,,,,,,,,,,,,,,
-"com.supercell.magic.npcstars0",0,3,"TID_ACHIEVEMENT_NPC_STARS_TITLE","TID_ACHIEVEMENT_NPC_STARS","npc_stars",10,,,10,5,,,"TID_ACHIEVEMENT_NPC_STARS_COMPLETED","true","CgkI9_nElagcEAIQBA",0,3
-"com.supercell.magic.npcstars1",1,3,"TID_ACHIEVEMENT_NPC_STARS_TITLE","TID_ACHIEVEMENT_NPC_STARS","npc_stars",50,,,100,10,,,"TID_ACHIEVEMENT_NPC_STARS_COMPLETED","true","CgkI9_nElagcEAIQBQ",0,3
-"com.supercell.magic.npcstars2",2,3,"TID_ACHIEVEMENT_NPC_STARS_TITLE","TID_ACHIEVEMENT_NPC_STARS","npc_stars",150,,,1000,20,,,"TID_ACHIEVEMENT_NPC_STARS_COMPLETED","true","CgkI9_nElagcEAIQBg",0,3
+"com.supercell.magic.npcstars0",0,3,"TID_ACHIEVEMENT_NPC_STARS_TITLE","TID_ACHIEVEMENT_NPC_STARS","npc_stars",10,,,10,5000,,,"TID_ACHIEVEMENT_NPC_STARS_COMPLETED","true","CgkI9_nElagcEAIQBA",0,3
+"com.supercell.magic.npcstars1",1,3,"TID_ACHIEVEMENT_NPC_STARS_TITLE","TID_ACHIEVEMENT_NPC_STARS","npc_stars",50,,,100,1000,,,"TID_ACHIEVEMENT_NPC_STARS_COMPLETED","true","CgkI9_nElagcEAIQBQ",0,3
+"com.supercell.magic.npcstars2",2,3,"TID_ACHIEVEMENT_NPC_STARS_TITLE","TID_ACHIEVEMENT_NPC_STARS","npc_stars",150,,,1000,2000,,,"TID_ACHIEVEMENT_NPC_STARS_COMPLETED","true","CgkI9_nElagcEAIQBg",0,3
 ,,,,,,,,,,,,,,,,,
-"com.supercell.magic.townhall0",0,3,"TID_ACHIEVEMENT_TOWN_HALL_TITLE","TID_ACHIEVEMENT_TOWN_HALL","upgrade",3,"Town Hall",,10,5,,,"TID_ACHIEVEMENT_TOWN_HALL_COMPLETED","true","CgkI9_nElagcEAIQBw",0,99
-"com.supercell.magic.townhall1",1,3,"TID_ACHIEVEMENT_TOWN_HALL_TITLE","TID_ACHIEVEMENT_TOWN_HALL","upgrade",5,"Town Hall",,100,10,,,"TID_ACHIEVEMENT_TOWN_HALL_COMPLETED","true","CgkI9_nElagcEAIQCA",0,99
-"com.supercell.magic.townhall2",2,3,"TID_ACHIEVEMENT_TOWN_HALL_TITLE","TID_ACHIEVEMENT_TOWN_HALL","upgrade",8,"Town Hall",,1000,20,,,"TID_ACHIEVEMENT_TOWN_HALL_COMPLETED","true","CgkI9_nElagcEAIQCQ",0,99
+"com.supercell.magic.townhall0",0,3,"TID_ACHIEVEMENT_TOWN_HALL_TITLE","TID_ACHIEVEMENT_TOWN_HALL","upgrade",3,"Town Hall",,10,3835,,,"TID_ACHIEVEMENT_TOWN_HALL_COMPLETED","true","CgkI9_nElagcEAIQBw",0,99
+"com.supercell.magic.townhall1",1,3,"TID_ACHIEVEMENT_TOWN_HALL_TITLE","TID_ACHIEVEMENT_TOWN_HALL","upgrade",5,"Town Hall",,100,1022,,,"TID_ACHIEVEMENT_TOWN_HALL_COMPLETED","true","CgkI9_nElagcEAIQCA",0,99
+"com.supercell.magic.townhall2",2,3,"TID_ACHIEVEMENT_TOWN_HALL_TITLE","TID_ACHIEVEMENT_TOWN_HALL","upgrade",8,"Town Hall",,1000,2320,,,"TID_ACHIEVEMENT_TOWN_HALL_COMPLETED","true","CgkI9_nElagcEAIQCQ",0,99
 ,,,,,,,,,,,,,,,,,
-"com.supercell.magic.clearobstacles0",0,3,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_TITLE","TID_ACHIEVEMENT_CLEAR_OBSTACLES","clear_obstacles",5,,,10,5,,,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_COMPLETED","true","CgkI9_nElagcEAIQCg",0,90
-"com.supercell.magic.clearobstacles1",1,3,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_TITLE","TID_ACHIEVEMENT_CLEAR_OBSTACLES","clear_obstacles",50,,,100,10,,,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_COMPLETED","true","CgkI9_nElagcEAIQCw",0,90
-"com.supercell.magic.clearobstacles2",2,3,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_TITLE","TID_ACHIEVEMENT_CLEAR_OBSTACLES","clear_obstacles",500,,,1000,20,,,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_COMPLETED","true","CgkI9_nElagcEAIQDA",0,90
+"com.supercell.magic.clearobstacles0",0,3,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_TITLE","TID_ACHIEVEMENT_CLEAR_OBSTACLES","clear_obstacles",5,,,10,533,,,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_COMPLETED","true","CgkI9_nElagcEAIQCg",0,90
+"com.supercell.magic.clearobstacles1",1,3,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_TITLE","TID_ACHIEVEMENT_CLEAR_OBSTACLES","clear_obstacles",50,,,100,1330,,,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_COMPLETED","true","CgkI9_nElagcEAIQCw",0,90
+"com.supercell.magic.clearobstacles2",2,3,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_TITLE","TID_ACHIEVEMENT_CLEAR_OBSTACLES","clear_obstacles",500,,,1000,2023,,,"TID_ACHIEVEMENT_CLEAR_OBSTACLES_COMPLETED","true","CgkI9_nElagcEAIQDA",0,90
 ,,,,,,,,,,,,,,,,,
-"com.supercell.magic.unitunlock0",0,3,"TID_ACHIEVEMENT_UNIT_UNLOCK_TITLE","TID_ACHIEVEMENT_UNIT_UNLOCK","unit_unlock",1,"Archer",,10,5,,,,"true","CgkI9_nElagcEAIQDQ",0,98
+"com.supercell.magic.unitunlock0",0,3,"TID_ACHIEVEMENT_UNIT_UNLOCK_TITLE","TID_ACHIEVEMENT_UNIT_UNLOCK","unit_unlock",1,"Archer",,10,373735,,,,"true","CgkI9_nElagcEAIQDQ",0,98
 "com.supercell.magic.unitunlock1",1,3,"TID_ACHIEVEMENT_UNIT_UNLOCK_TITLE","TID_ACHIEVEMENT_UNIT_UNLOCK","unit_unlock",1,"Wall Breaker",,100,10,,,,"true","CgkI9_nElagcEAIQDg",0,98
 "com.supercell.magic.unitunlock2",2,3,"TID_ACHIEVEMENT_UNIT_UNLOCK_TITLE","TID_ACHIEVEMENT_UNIT_UNLOCK","unit_unlock",1,"Dragon",,1000,20,,,,"true","CgkI9_nElagcEAIQDw",0,98
 ,,,,,,,,,,,,,,,,,
